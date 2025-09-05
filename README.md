@@ -5,7 +5,7 @@
                                   ╔═══════════════════════════════════════════╗
                                   ║    Data Science & Business Intelligence   ║
                                   ║        Machine Learning Enthusiast        ║
-                                  ║   Transformando datos en decisiones       ║
+                                  ║   Transformando Datos En Decisiones       ║
                                   ╚═══════════════════════════════════════════╝
 ```
 
